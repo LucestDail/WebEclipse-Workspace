@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>move to another url : a tag</title>
+</head>
+<body>
+<h1> move to another url<br></h1>
+<a href = "http://goodee.co.kr" target="_blank"> Goodee</a>
+<a href = "http://naver.com">Naver</a>
+<a href = "http://daum.net">Daum</a>
+<a href = "http://google.com">Google</a>
+<a href = "http://amazon.com">Amazon</a>
+<a href = "htmlEx3.html#quot" target = "_blank"> htmlEx3.html</a>
+</body>
+</html>

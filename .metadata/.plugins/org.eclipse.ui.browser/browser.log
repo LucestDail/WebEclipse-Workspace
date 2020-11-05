@@ -1,0 +1,25 @@
+
+11월 05, 2020 14:10:47.719 NEW SESSION
+11월 05, 2020 14:10:47.720 [17983:17983:1105/141047.715401:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 14:12:27.17 [18539:18539:1105/141227.017385:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 14:14:53.509 기존 브라우저 세션에서 여는 중입니다.
+11월 05, 2020 14:16:12.945 [19424:19424:1105/141612.936145:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 14:19:09.934 [19976:19976:1105/141909.933910:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+
+11월 05, 2020 14:36:51.75 NEW SESSION
+11월 05, 2020 14:36:51.76 [21683:21683:1105/143651.071924:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 14:37:23.764 [22058:22058:1105/143723.761113:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 14:41:01.809 [22691:22691:1105/144101.809279:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 14:44:26.750 [23965:23965:1105/144426.749836:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 15:08:00.985 기존 브라우저 세션에서 여는 중입니다.
+11월 05, 2020 15:17:24.993 기존 브라우저 세션에서 여는 중입니다.
+11월 05, 2020 15:17:25.356 [30553:30553:1105/151725.356249:ERROR:broker_posix.cc(43)] Invalid node channel message
+11월 05, 2020 15:17:25.643 [30551:30551:0100/000000.643193:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 15:17:25.651 [30551:30551:0100/000000.650666:ERROR:broker_posix.cc(43)] Invalid node channel message
+11월 05, 2020 15:48:29.01 기존 브라우저 세션에서 여는 중입니다.
+11월 05, 2020 16:06:28.787 기존 브라우저 세션에서 여는 중입니다.
+11월 05, 2020 16:06:29.37 [34993:34993:1105/160629.037364:ERROR:broker_posix.cc(43)] Invalid node channel message
+11월 05, 2020 16:06:29.225 [34991:34991:0100/000000.224755:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 16:06:29.228 [34991:34991:0100/000000.227691:ERROR:broker_posix.cc(43)] Invalid node channel message
+11월 05, 2020 16:13:42.283 [35935:35935:1105/161342.282778:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+11월 05, 2020 16:27:31.738 [37757:37757:1105/162731.737605:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table border = "1" style = "border-collapse :collapse;">
+<tr>
+	<th></th>
+	<th>Mon</th>
+	<th>Tue</th>
+	<th>Wed</th>
+	<th>Thr</th>
+	<th>Fri</th>
+</tr>
+<tr>
+	<th>1st</th>
+	<th>Eng</th>
+	<th>Kor</th>
+	<th>Sci</th>
+	<th>Art</th>
+	<th>Tec</th>
+</tr>
+<tr>
+	<th>2nd</th>
+	<th>Sci</th>
+	<th>Phy</th>
+	<th>Eng</th>
+	<th>Mth</th>
+	<th>Scl</th>
+</tr>
+</table>
+
+
+<table border = "1" style = "border-collapse :collapse;">
+<tr>
+	<th></th>
+	<th>Mon</th>
+	<th>Tue</th>
+	<th>Wed</th>
+	<th>Thr</th>
+	<th>Fri</th>
+</tr>
+<tr>
+	<th>1st</th>
+	<td rowspan = "3">Eng</td>
+	<td>Kor</td>
+	<td>Sci</td>
+	<td>Art</td>
+	<td>Tec</td>
+</tr>
+<tr>
+	<th>2nd</th>
+	<td>Phy</td>
+	<td>Kor</td>
+	<td>Mth</td>
+	<td>Scl</td>
+</tr>
+<tr>
+	<th>3rd</th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+	<th></th>
+</tr>
+</table>
+
+
+<table border = "1" style = "border-collapse :collapse;">
+<tr>
+	<th></th>
+	<th>Mon</th>
+	<th>Tue</th>
+	<th>Wed</th>
+	<th>Thr</th>
+	<th>Fri</th>
+</tr>
+<tr>
+	<td rowspan = "2">data1</td>
+	<td colspan = "2">data2</td>
+</tr>
+<tr><td>foot2</td><td>foot3</td></tr>
+</table>
+
+
+</body>
+</html>

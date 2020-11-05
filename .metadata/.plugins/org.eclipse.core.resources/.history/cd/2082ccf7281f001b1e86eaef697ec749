@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>word printing</title>
+</head>
+<body>
+<h3> spacebar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;here!</h3>
+<h3> special word &amp;</h3>
+<h3>&lt;tag &gt;info&lt;/tag&gt;:tag should be separate with start tag and end tag</h3>
+&lt;script&gt;location.href='htmlEx1.html'&lt;/script&gt;
+<h3> HTML &amp; CSS &amp; JavaScript is Client language...
+there is a interpreter in your browser
+by the way, each browser has their own interpreter, so the result can be different</h3>
+</body>
+</html>
