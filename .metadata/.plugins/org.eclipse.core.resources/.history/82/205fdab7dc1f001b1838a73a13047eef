@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>css selector example</title>
+<style type = "text/css"></style>
+</head>
+<body>
+<ul>
+	<li>menu1</li>
+	<li>menu2</li>
+	<li>menu3</li>
+</ul>
+</body>
+</html>

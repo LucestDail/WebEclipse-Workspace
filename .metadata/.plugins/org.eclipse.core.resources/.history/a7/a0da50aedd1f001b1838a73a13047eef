@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>css selector example</title>
+<style type = "text/css">
+*{
+	background-color :yellow;
+}
+li{
+	list-style-type: decimal;
+}
+h2{
+	font-size: 20px;
+	color: FFFFFF;
+	background-color: blue;
+}
+</style>
+</head>
+<body>
+<ul>
+	<li>menu1</li>
+	<li>menu2</li>
+	<li>menu3</li>
+</ul>
+<h2> css tag text example for documentaion and design</h2>
+<p> bla bla bla bla something write in here right?</p>
+<p> if you want, you can fill here with your word or paragraph you want:)</p>
+</body>
+</html>

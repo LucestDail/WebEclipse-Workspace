@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type = "text/css">
+	.select{
+		color:red;
+	}
+	.select2{
+		color:blue;
+	}
+	input[type=text]
+	{
+		background:green;
+	}
+	input[type=password]{
+		background:blue;
+	}
+</style>
+</head>
+<body>
+<ul>
+	<li class = "select">menu1</li>
+	<li class = "select2">menu2</li>
+	<li class = "select">menu3</li>
+	<li class = "select2">menu4</li>
+</ul>
+<form>
+	<input type = "text">
+	<input type = "password"><br>
+	<input type = "text" id = "yelow">
+
+
+</form>
+</body>
+</html>
